@@ -4,7 +4,6 @@ Estudante de **Sistemas de Informação na PUC-Campinas**, com um ano e meio de 
 
 - 🍽️ Desenvolvi sozinho o **MeuRestaurante**, uma plataforma SaaS de gestão de restaurantes em produção (TypeScript, Next.js, PostgreSQL)
 - ☕ Base sólida em **Java**, orientação a objetos e SQL
-- 🤖 Uso IA no dia a dia de desenvolvimento (Claude Code)
 - 🌎 Português nativo, inglês fluente, francês e espanhol básicos
 
 ### Projetos em destaque
