@@ -10,6 +10,7 @@ Estudante de **Sistemas de Informação na PUC-Campinas**, com um ano e meio de 
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
+| [MeuRestaurante](https://github.com/theomont7/meurestaurante) | Plataforma SaaS multiempresa de gestão de restaurantes, em produção · [site](https://meurestaurante-five.vercel.app) | Next.js, TypeScript, PostgreSQL |
 | [Sistema de Biblioteca](https://github.com/theomont7/biblioteca-java) | App desktop com MVC, DAO e interface em inglês e francês | Java, Swing, SQLite |
 | [NovaStore](https://github.com/theomont7/loja-virtual) | Loja virtual com catálogo, carrinho e checkout · [demo](https://theomont7.github.io/loja-virtual/) | HTML, CSS, JavaScript |
 
